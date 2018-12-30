@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Aditi Dash
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
@@ -33,9 +33,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'http://instagram.com'
+  facebook_url: ''
+  twitter_url: ''
+  instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -47,7 +47,7 @@ social_settings:
   apple_url: ''
   android_url: ''
   tumblr_url: 'http://tumblr.com'
-  dribbble_url: 'http://dribbble.com'
+  dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
   github_url: ''
