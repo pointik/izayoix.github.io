@@ -68,9 +68,9 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#221D1D'
   border_color: '#dddddd'
-  overlay_background_color: '##221D1D'
+  overlay_background_color: '#221D1D'
   overlay_text_color: '#ffffff'
-  overlay_accent_color: '##221D1D'
+  overlay_accent_color: '#221D1D'
   error_color: '#221D1D'
 
 font_settings:
