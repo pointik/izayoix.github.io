@@ -1,33 +1,14 @@
 ---
-title: About Aditi
+title: About The Artist
 subtitle: write here some things please
 description: describe me pls
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-## Features
+Hi, I'm Aditi, the artist behind all the peices shown here. I'm still a high school student, but I hope to work as an illastrator or something of the sort in the future. 
 
-We've packed Duet full of powerful features to help showcase your work:
+I enjoy creating artwork through different mediums, my favourite being watercolours. I occasionally dabble 2 dimensional digital art, but recently I've also been interested in 3D modelling and game design. 
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+My other interests include reading, writing, listening to music and palying video games
 
-## Get Duet
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
