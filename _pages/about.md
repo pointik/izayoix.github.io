@@ -9,6 +9,6 @@ Hi, I'm Aditi, the artist behind all the peices shown here. I'm still a high sch
 
 I enjoy creating artwork through different mediums, my favourite being watercolours. I occasionally dabble 2 dimensional digital art, but recently I've also been interested in 3D modelling and game design. 
 
-My other interests include reading, writing, listening to music and palying video games
+My other interests include reading, writing, listening to music and playing video games
 
 
